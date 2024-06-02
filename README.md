@@ -65,4 +65,3 @@ In this setup, DBT is used to clean, transform, and model data from the raw Airb
 ### Disclaimer
 This project is based on this course project: 
 https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/
-# Data_Modeling-AIRBNB-Snowflakes
