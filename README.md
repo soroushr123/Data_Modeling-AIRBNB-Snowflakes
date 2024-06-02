@@ -58,9 +58,8 @@ In this setup, DBT is used to clean, transform, and model data from the raw Airb
 <p align="center"> Figure: Overall pipeline of DBT Data modeling </p>
 
 ## 4. Project File Struture:
-1. Refer to Snowflake_setup folder and follow the instruction to setup the dataset
-2. Use DBT RUN and DBT TEST after opening terminal in dbt_airbnb_snowflake folder to make the complete dbt profile for the project.
-3. Dagster folder can be used to perform data orchestration and scheduled run on the data
+1. Use DBT RUN and DBT TEST after opening terminal in dbt_airbnb_snowflake folder to make the complete dbt profile for the project.
+2. Dagster folder can be used to perform data orchestration and scheduled run on the data
 
 ### Disclaimer
 This project is based on this course project: 
