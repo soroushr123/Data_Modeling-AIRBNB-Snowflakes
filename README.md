@@ -61,6 +61,3 @@ In this setup, DBT is used to clean, transform, and model data from the raw Airb
 1. Use DBT RUN and DBT TEST after opening terminal in dbt_airbnb_snowflake folder to make the complete dbt profile for the project.
 2. Dagster folder can be used to perform data orchestration and scheduled run on the data
 
-### Disclaimer
-This project is based on this course project: 
-https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/
